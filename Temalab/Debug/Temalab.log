@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Temalab.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  onlab.cpp
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(5,1): warning C4005: 'GLEW_STATIC': macro redefinition
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp : message : see previous definition of 'GLEW_STATIC'
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(86,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(87,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(102,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(103,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bidle\source\repos\Temalab\Temalab\onlab.cpp(104,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Temalab.vcxproj -> C:\Users\bidle\source\repos\Temalab\Debug\Onlab.exe
